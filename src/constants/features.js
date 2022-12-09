@@ -1,8 +1,8 @@
 export default {
-  costInCredits: "Cost",
-  totalLength: "Length",
-  maxAtmospheringSpeed: "Speed",
-  crew: "Crew",
-  passengers: "Passengers",
-  cargoCapacity: "Cargo Capacity",
+  lengthOverall: "Length",
+  beam: "Beam",
+  dateMade: "Date made",
+  displacement: "Displacement",
+  hullNumber: "Hull Number",
+  cost: "Cost ($)",
 };

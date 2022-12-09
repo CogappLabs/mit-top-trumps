@@ -1,0 +1,116 @@
+{
+  "vessels": [
+  {
+    "title": "Katoura",
+    "description": "",
+    "vesselID": "1518",
+    "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/GO.1.1518.jpg",
+    "properties": {
+      "lengthOverall": 162,
+      "beam": 30,
+      "dateMade": "1913/03/31",
+      "displacement": 380,
+      "hullNumber": 722,
+      "cost": 162400
+    }
+  },
+  {
+    "title": "Vagrant II",
+    "description": "",
+    "vesselID": "1518",
+    "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/CF-02-083.jpg",
+    "properties": {
+      "lengthOverall": 109,
+      "beam": 23,
+      "dateMade": "1912-11-02",
+      "displacement": 134,
+      "hullNumber": 719,
+      "cost": 70000
+    }
+  },
+  {
+    "title": "Ingomar",
+    "description": "",
+    "vesselID": "1347",
+    "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.3.001-014.jpg",
+    "properties": {
+      "lengthOverall": 122,
+      "beam": 24,
+      "dateMade": "1902-09-13",
+      "displacement": 176,
+      "hullNumber": 590,
+      "cost": 94000
+    }
+  },
+  {
+    "title": "Reliance",
+    "description": "Reliance was designed and built to defend the America's Cup in 1903. She defeated Shamrock III in three straight races to defend the Cup.",
+    "vesselID": "1128",
+    "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/CF-10-083.jpg",
+    "properties": {
+      "lengthOverall": 143,
+      "beam": 25,
+      "dateMade": "1903-04-10",
+      "displacement": 189,
+      "hullNumber": 605,
+      "cost": 94000
+    }
+  },
+  {
+    "title": "Robin",
+    "description": "First of class",
+    "vesselID": "840",
+    "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.6.069-2_1.jpg",
+    "properties": {
+      "lengthOverall": 15,
+      "beam": 5,
+      "dateMade": "1914-10-30",
+      "displacement": 0.787,
+      "hullNumber": 744,
+      "cost": 420
+    }
+  },
+  {
+    "title": "Mariette",
+    "description": "Mariette was commissioned by, Jacob Frederick Brown, a member of the Eastern and Boston Yacht Clubs and was the ninth of 14 large steel schooner yachts built by HMCo between 1902 and 1925.",
+    "vesselID": "712",
+    "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/CF-19-026.jpg",
+    "properties": {
+      "lengthOverall": 109,
+      "beam": 23,
+      "dateMade": "1915-10-07",
+      "displacement": 146.1,
+      "hullNumber": 772,
+      "cost": 75000
+    }
+  },
+  {
+    "title": "Opitsah",
+    "description": "",
+    "vesselID": "581",
+    "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/CF-11-051.jpg",
+    "properties": {
+      "lengthOverall": 15,
+      "beam": 5,
+      "dateMade": "1920-01-14",
+      "displacement": 0.787,
+      "hullNumber": 840,
+      "cost": 750
+    }
+  },
+  {
+    "title": "Unnamed Vessel - Hull Number 01006",
+    "description": "",
+    "vesselID": "627",
+    "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.3.001-035.jpg",
+    "properties": {
+      "lengthOverall": 15,
+      "beam": 5,
+      "dateMade": "1926",
+      "displacement": 0.787,
+      "hullNumber": 1006,
+      "cost": 1100
+    }
+  }
+]
+}

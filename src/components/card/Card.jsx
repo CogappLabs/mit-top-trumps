@@ -18,12 +18,12 @@ const Card = (props) => {
       {!isClosed ? (
         <div>
           <CardHeader
-            title={card.name}
-            model={card.model}
+            title={card.title}
+            model={card.description}
             manufacturer={card.manufacturer}
           />
           <CardImage
-            image={card.image}
+            image={card.imageURL}
           />
           <CardFeatureList
             card={card}
