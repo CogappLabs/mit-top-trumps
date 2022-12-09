@@ -1,116 +1,364 @@
 {
   "vessels": [
-  {
-    "title": "Katoura",
-    "description": "",
-    "vesselID": "1518",
-    "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/GO.1.1518.jpg",
-    "properties": {
-      "lengthOverall": 162,
-      "beam": 30,
-      "dateMade": "1913/03/31",
-      "displacement": 380,
-      "hullNumber": 722,
-      "cost": 162400
-    }
-  },
-  {
-    "title": "Vagrant II",
-    "description": "",
-    "vesselID": "1518",
-    "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/CF-02-083.jpg",
-    "properties": {
-      "lengthOverall": 109,
-      "beam": 23,
-      "dateMade": "1912-11-02",
-      "displacement": 134,
-      "hullNumber": 719,
-      "cost": 70000
-    }
-  },
-  {
-    "title": "Ingomar",
-    "description": "",
-    "vesselID": "1347",
-    "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.3.001-014.jpg",
-    "properties": {
-      "lengthOverall": 122,
-      "beam": 24,
-      "dateMade": "1902-09-13",
-      "displacement": 176,
-      "hullNumber": 590,
-      "cost": 94000
-    }
-  },
-  {
-    "title": "Reliance",
-    "description": "Reliance was designed and built to defend the America's Cup in 1903. She defeated Shamrock III in three straight races to defend the Cup.",
-    "vesselID": "1128",
-    "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/CF-10-083.jpg",
-    "properties": {
-      "lengthOverall": 143,
-      "beam": 25,
-      "dateMade": "1903-04-10",
-      "displacement": 189,
-      "hullNumber": 605,
-      "cost": 94000
-    }
-  },
-  {
-    "title": "Robin",
-    "description": "First of class",
-    "vesselID": "840",
-    "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.6.069-2_1.jpg",
-    "properties": {
-      "lengthOverall": 15,
-      "beam": 5,
-      "dateMade": "1914-10-30",
-      "displacement": 0.787,
-      "hullNumber": 744,
-      "cost": 420
-    }
-  },
-  {
-    "title": "Mariette",
-    "description": "Mariette was commissioned by, Jacob Frederick Brown, a member of the Eastern and Boston Yacht Clubs and was the ninth of 14 large steel schooner yachts built by HMCo between 1902 and 1925.",
-    "vesselID": "712",
-    "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/CF-19-026.jpg",
-    "properties": {
-      "lengthOverall": 109,
-      "beam": 23,
+    {
+      "id": 581,
+      "cost": 75000,
+      "dateMade": "1920-01-14",
+      "lengthOverall": 15.83,
+      "displacement": 0.75,
+      "hullNumber": 840,
+      "name": "Opitsah",
+      "beam": 5.83,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/CF-11-051.jpg"
+    },
+    {
+      "id": 627,
+      "cost": 1100,
+      "dateMade": "1926",
+      "lengthOverall": 15.83,
+      "displacement": 0.75,
+      "hullNumber": 1006,
+      "name": "Unnamed Vessel - Hull Number 01006",
+      "beam": 5.83,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.31-035.jpg"
+    },
+    {
+      "id": 633,
+      "cost": 1100,
+      "dateMade": "1928-07-09",
+      "lengthOverall": 15.83,
+      "displacement": 0.75,
+      "hullNumber": 1090,
+      "name": "Unnamed Vessel - Hull Number 01090",
+      "beam": 5.83,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HG.1.01090.jpg"
+    },
+    {
+      "id": 634,
+      "cost": 1100,
+      "dateMade": "1928-07-09",
+      "lengthOverall": 15.83,
+      "displacement": 0.75,
+      "hullNumber": 1089,
+      "name": "Dodo",
+      "beam": 5.83,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/GO.1.1089.jpg"
+    },
+    {
+      "id": 708,
+      "cost": 420,
+      "dateMade": "1914-11-14",
+      "lengthOverall": 15.83,
+      "displacement": 0.75,
+      "hullNumber": 754,
+      "name": "Butterball",
+      "beam": 5.83,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.3.001-041.jpg"
+    },
+    {
+      "id": 710,
+      "cost": 1100,
+      "dateMade": "1929-03-28",
+      "lengthOverall": 15.83,
+      "displacement": 0.75,
+      "hullNumber": 1100,
+      "name": "Unnamed Vessel - Hull Number 01100",
+      "beam": 5.83,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.3.001-040.jpg"
+    },
+    {
+      "id": 712,
+      "cost": 75000,
       "dateMade": "1915-10-07",
+      "lengthOverall": 109,
       "displacement": 146.1,
       "hullNumber": 772,
-      "cost": 75000
+      "name": "Mariette",
+      "beam": 23.75,
+      "description": "Mariette was commissioned by, Jacob Frederick Brown, a member of the Eastern and Boston Yacht Clubs and was the ninth of 14 large steel schooner yachts built by HMCo between 1902 and 1925. These magnificent schooners are among the largest and most expensive private sailing yachts built by HMCo and were commissioned by leaders in American business and industry. These expensive yachts represent the peak of HMCo's success at the beginning of the 20th century. \n\nHMCo's string of six America's Cup defenders from 1893 - 1920 was a key factor in attracting so much yacht design business. This attention afforded the company the ability to experiment with new designs and expand their product line with more one-design or batch produced vessels that helped to keep orders for boats steady. In 1915, at the time of Mariette's construction, a record 500 workmen were employed by HMCo. \n\nMariette was a sister (another vessel based on a prior design) to Vagrant II, built for Harold S. Vanderbilt. Both Vagrant II and Mariette are still sailing as of 2018. The only other survivors of the HMCo steel schooners are Queen and Wildfire. The elegance and racing records of these schooners have captured the imagination of yachtsmen down to the present day. The largest replicas of Herreshoff yachts are three of the most famous schooners: Westward  (Eleonora, built in Holland), Elena (Elena, built in Spain) and Ingomar (awaiting completion in Holland).",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/CF-19-026.jpg"
+    },
+    {
+      "id": 742,
+      "cost": 1100,
+      "dateMade": "1928-07-03",
+      "lengthOverall": 15.83,
+      "displacement": 0.75,
+      "hullNumber": 1026,
+      "name": "Shark",
+      "beam": 5.83,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.3.001-036.jpg"
+    },
+    {
+      "id": 743,
+      "cost": 1100,
+      "dateMade": "1931",
+      "lengthOverall": 15.83,
+      "displacement": 0.75,
+      "hullNumber": 1196,
+      "name": "Unnamed Vessel - Hull Number 01196",
+      "beam": 5.83,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.3.001-044.jpg"
+    },
+    {
+      "id": 766,
+      "cost": 118000,
+      "dateMade": "1909-10-01",
+      "lengthOverall": 136.5,
+      "displacement": 233.9,
+      "hullNumber": 692,
+      "name": "Westward",
+      "beam": 26.67,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/CF-25-053.jpg"
+    },
+    {
+      "id": 778,
+      "cost": 750,
+      "dateMade": "1917-07-16",
+      "lengthOverall": 15.83,
+      "displacement": 0.75,
+      "hullNumber": 824,
+      "name": "Unnamed Vessel - Hull Number 00824",
+      "beam": 5.83,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.3.001-026.jpg"
+    },
+    {
+      "id": 814,
+      "cost": 900,
+      "dateMade": "1922-04-12",
+      "lengthOverall": 15.83,
+      "displacement": 0.75,
+      "hullNumber": 877,
+      "name": "Unnamed Vessel - Hull Number 00877",
+      "beam": 5.83,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.3.001-028.jpg"
+    },
+    {
+      "id": 840,
+      "cost": 420,
+      "dateMade": "1914-10-30",
+      "lengthOverall": 15.83,
+      "displacement": 0.75,
+      "hullNumber": 744,
+      "name": "Robin",
+      "beam": 5.83,
+      "description": "First of class",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.6.069-2_1.jpg"
+    },
+    {
+      "id": 917,
+      "cost": 900,
+      "dateMade": "1924-07-17",
+      "lengthOverall": 15.83,
+      "displacement": 0.75,
+      "hullNumber": 901,
+      "name": "Wanderer Jr.",
+      "beam": 5.83,
+      "description": "First BB 12 12 footer with marconi rig.",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.5.10545.jpg"
+    },
+    {
+      "id": 922,
+      "cost": 420,
+      "dateMade": "1914-11-14",
+      "lengthOverall": 15.83,
+      "displacement": 0.75,
+      "hullNumber": 757,
+      "name": "Unnamed Vessel - Hull Number 00757",
+      "beam": 5.83,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.3.001-022.jpg"
+    },
+    {
+      "id": 925,
+      "cost": 750,
+      "dateMade": "1920-02-23",
+      "lengthOverall": 15.83,
+      "displacement": 0.75,
+      "hullNumber": 848,
+      "name": "Doodle Bug",
+      "beam": 5.83,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.3.001-027.jpg"
+    },
+    {
+      "id": 1045,
+      "cost": 1000,
+      "dateMade": "1931-08-08",
+      "lengthOverall": 15.83,
+      "displacement": 0.75,
+      "hullNumber": 1209,
+      "name": "Peggy",
+      "beam": 5.83,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.3.001-045.jpg"
+    },
+    {
+      "id": 1084,
+      "cost": 1100,
+      "dateMade": "1929-06-12",
+      "lengthOverall": 15.83,
+      "displacement": 0.75,
+      "hullNumber": 1106,
+      "name": "Comet",
+      "beam": 5.83,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.5.10545.jpg"
+    },
+    {
+      "id": 1101,
+      "cost": 1100,
+      "dateMade": "1928-03-02",
+      "lengthOverall": 15.83,
+      "displacement": 0.75,
+      "hullNumber": 1072,
+      "name": "Duckling",
+      "beam": 5.83,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.3.001-038.jpg"
+    },
+    {
+      "id": 1128,
+      "cost": 174000,
+      "dateMade": "1903-04-10",
+      "lengthOverall": 143.75,
+      "displacement": 189.4,
+      "hullNumber": 605,
+      "name": "Reliance",
+      "beam": 25.5,
+      "description": "Reliance was designed and built to defend the America's Cup in 1903. She defeated Shamrock III in three straight races to defend the Cup. Shamrock III was designed by William Fife, Jr. for her owner, Sir Thomas Lipton. Reliance was commmissioned by a syndicate of ten New York Yacht Club members that included titans of business and finance such as William Rockefeller, Cornelius Vanderbilt and C. Oliver Iselin. Reliance was the fourth vessel in a row designed by Nathanael Herreshoff and built by HMCo, under his supervision, to defend their fifth consecutive America's Cup (his earlier Columbia defended the Cup in both 1899 and 1901). Reliance is considered the most extreme of the eight consecutive defenders of the America's Cup built by HMCo from 1893 - 1934. Reliance was the largest single masted vessel in the world at the time of her launching in 1903. Overall length on deck was just under 144' with a waterline length of 90' allowed for enourmous overhangs that provided a greatly extended waterline length when in racing trim. Reliance displaced just under 190 tons that was substantially concentrated in her massive lead keel. The keel and light strong hull structure was required to support 16,840 sq. ft. of sail area or just over 1/3 of a football playing field. The sails towered over 154' above deck. The structural engineering of Reliance's hull and sailing rig are examples of N. G. Herreshoff's brilliant engineering mind. To create the lightest and strongest hull and mast, NGH used strong nickle steel for the hull and mast framing and Tobin Bronze for hull and mast plating. Aluminium was also used on deck to save weight. He reduced interior structural weight by using strong web frames and longitudinal framing, much like the construction of metal aircraft fuselages years later. The combination of materials and specific structual engineering was focused on concentrating weight down low in the keel to support the massive sail area to drive this huge sailing vessel as fast as possible. This extreme America's Cup winner also caused major changes in thinking about the rule around which such extreme yachts could come into existence. After Reliance's victory, the New York Yacht Club issued requests for new more rational yacht rating formulas and NGH offered a new formula that was accepted and became known as the Universal Rule. The rule attempted to provide a better framework for designing more practical and seaworthy classes of racing boats from 16' to the new J-class, used in the America's Cup starting in 1930. Herreshoff's New York 30 of 1905 was the first HMCo one-design class built to his new rule.",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/CF-10-083.jpg"
+    },
+    {
+      "id": 1265,
+      "cost": 420,
+      "dateMade": "1914-11-14",
+      "lengthOverall": 15.83,
+      "displacement": 0.75,
+      "hullNumber": 745,
+      "name": "Elf",
+      "beam": 5.83,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/CF-10-083.jpg"
+    },
+    {
+      "id": 1319,
+      "cost": 900,
+      "dateMade": "1935-01-31",
+      "lengthOverall": 15.83,
+      "displacement": 0.75,
+      "hullNumber": 1236,
+      "name": "Seal",
+      "beam": 5.83,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.3.001-046.jpg"
+    },
+    {
+      "id": 1347,
+      "cost": 94000,
+      "dateMade": "1902-09-13",
+      "lengthOverall": 122,
+      "displacement": 176.7,
+      "hullNumber": 590,
+      "name": "Ingomar",
+      "beam": 24.17,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.31-014.jpg"
+    },
+    {
+      "id": 1379,
+      "cost": 650,
+      "dateMade": "1931",
+      "lengthOverall": 15.83,
+      "displacement": 0.75,
+      "hullNumber": 1201,
+      "name": "Rocket",
+      "beam": 5.83,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.3.001-045.jpg"
+    },
+    {
+      "id": 1425,
+      "cost": 1100,
+      "dateMade": "1931-01-13",
+      "lengthOverall": 15.83,
+      "displacement": 0.75,
+      "hullNumber": 1175,
+      "name": "Unnamed Vessel - Hull Number 01175",
+      "beam": 5.83,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.3.001-043.jpg"
+    },
+    {
+      "id": 1518,
+      "cost": 162400,
+      "dateMade": "1913-03-31",
+      "lengthOverall": 162,
+      "displacement": 380,
+      "hullNumber": 722,
+      "name": "Katoura",
+      "beam": 30,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/GO.1.1518.jpg"
+    },
+    {
+      "id": 1536,
+      "cost": 70000,
+      "dateMade": "1912-11-02",
+      "lengthOverall": 109,
+      "displacement": 134,
+      "hullNumber": 719,
+      "name": "Vagrant II",
+      "beam": 23.67,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/CF-02-083.jpg"
+    },
+    {
+      "id": 1555,
+      "cost": 1100,
+      "dateMade": "1927-12-01",
+      "lengthOverall": 15.83,
+      "displacement": 0.75,
+      "hullNumber": 1064,
+      "name": "Kiki",
+      "beam": 5.83,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.3.001-038.jpg"
+    },
+    {
+      "id": 1586,
+      "cost": 900,
+      "dateMade": "1923-06-01",
+      "lengthOverall": 15.83,
+      "displacement": 0.75,
+      "hullNumber": 894,
+      "name": "Wren",
+      "beam": 5.83,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.3.001-029.jpg"
+    },
+    {
+      "id": 1617,
+      "cost": 750,
+      "dateMade": "1920-01-23",
+      "lengthOverall": 15.83,
+      "displacement": 0.75,
+      "hullNumber": 843,
+      "name": "Bullrush [?]",
+      "beam": 5.83,
+      "description": "",
+      "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.3.001-027.jpg"
     }
-  },
-  {
-    "title": "Opitsah",
-    "description": "",
-    "vesselID": "581",
-    "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/CF-11-051.jpg",
-    "properties": {
-      "lengthOverall": 15,
-      "beam": 5,
-      "dateMade": "1920-01-14",
-      "displacement": 0.787,
-      "hullNumber": 840,
-      "cost": 750
-    }
-  },
-  {
-    "title": "Unnamed Vessel - Hull Number 01006",
-    "description": "",
-    "vesselID": "627",
-    "imageURL": "https://res.cloudinary.com/mitmuseum/image/upload/t_800/media-internal/HH.3.001-035.jpg",
-    "properties": {
-      "lengthOverall": 15,
-      "beam": 5,
-      "dateMade": "1926",
-      "displacement": 0.787,
-      "hullNumber": 1006,
-      "cost": 1100
-    }
-  }
-]
+  ]
 }

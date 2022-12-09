@@ -62,8 +62,8 @@ class App extends Component {
   }
 
   handlePlay = (card1, card2) => {
-    const feature1 = parseInt(card1["properties"][this.state.selectedFeature], 10);
-    const feature2 = parseInt(card2["properties"][this.state.selectedFeature], 10);
+    const feature1 = parseInt(card1[this.state.selectedFeature], 10);
+    const feature2 = parseInt(card2[this.state.selectedFeature], 10);
     const newState = {};
 
     if (card1.topTrump || feature1 > feature2) {

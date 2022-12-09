@@ -17,7 +17,7 @@ const CardFeatureList = (props) => {
       key={`feature-${featureKey}`}
       featureKey={featureKey}
       label={features[featureKey]}
-      value={card["properties"][featureKey]}
+      value={card[featureKey]}
       handleFeatureClick={handleFeatureSelection}
       selectedFeature={selectedFeature}
       status={status}

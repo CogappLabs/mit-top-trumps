@@ -18,7 +18,7 @@ const Card = (props) => {
       {!isClosed ? (
         <div>
           <CardHeader
-            title={card.title}
+            title={card.name}
             model={card.description}
             manufacturer={card.manufacturer}
           />

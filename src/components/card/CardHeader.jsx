@@ -12,8 +12,8 @@ const CardHeader = (props) => {
     <div className="card-header">
       <h3>{title}</h3>
       <div className="card-additional-info">
-        <div>Model: {model}</div>
-        <div>Manufacturer: {manufacturer}</div>
+        <div>{model}</div>
+        <div>{manufacturer}</div>
       </div>
     </div>
   );
